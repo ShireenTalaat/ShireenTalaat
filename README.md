@@ -1,3 +1,4 @@
+# Hi, I'm Shireen Talaat 👋
 
 
 <!--
@@ -14,114 +15,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Shireen Talaat 👋
 
-Electronics & Communications Engineer transitioning into **Data Analytics and Applied AI** with foundations in **Cloud & Data Engineering**.
 
-I focus on building data-driven solutions using:
-- Power BI
-- SQL
-- Python
-- ETL Pipelines
-- Data Visualization
+Electronics & Communications Engineer focused on **Data Analytics, Applied AI, and Business Intelligence** with foundations in **Cloud & Data Engineering**.
+
+## Technical Focus
+- Power BI & Data Visualization
+- SQL & Analytics
+- Python for Data Analysis
+- ETL Pipelines & Data Workflows
 - AWS & Azure Cloud Technologies
+- Applied Machine Learning
 
-My work combines:
-- analytics
-- business intelligence
-- cloud-based data workflows
-- applied machine learning
-- engineering-oriented problem solving
+## Featured Areas
+- Business Intelligence Dashboards
+- End-to-End Analytics Projects
+- Cloud-Based Data Solutions
+- Predictive Analytics & AI Workflows
 
----
-
-## Technical Skills
-
-### Data Analytics & BI
-- Power BI
-- SQL
-- Data Cleaning
-- Data Visualization
-- KPI Analysis
-- Dashboard Development
-
-### Programming & Data
-- Python
-- Pandas
-- NumPy
-- Jupyter Notebook
-
-### Cloud & Data Engineering
-- AWS
-- Azure
-- ETL Pipelines
-- Data Warehousing
-- Cloud Data Workflows
-
-### Machine Learning Foundations
-- Supervised Learning
-- Data Preprocessing
-- Exploratory Data Analysis
-- Predictive Analytics
-
----
-
-## Featured Projects
-
-### Power BI & Analytics
-- Interactive business dashboards
-- KPI and performance analysis
-- Data storytelling and visualization
-
-### Data Engineering & Cloud
-- ETL workflows
-- Cloud-based data pipelines
-- SQL and warehouse-oriented projects
-
-### Applied AI & Machine Learning
-- Predictive analytics projects
-- Classification and data analysis workflows
-
----
-
-## Current Focus
-
-- Advanced Power BI & Data Analytics
-- Applied AI workflows
-- End-to-end analytics projects
-- Cloud-supported data systems
-
----
-
-## Goals
-
-I am currently building projects that combine:
-- analytics
-- AI
-- cloud infrastructure
-- business intelligence
-- scalable data workflows
-
-with the goal of pursuing advanced opportunities in:
-- Applied AI
+## Current Goal
+Building scalable analytics and AI-driven solutions while preparing for advanced studies and professional roles in:
 - Data Analytics
+- Applied AI
 - Business Intelligence
 - Data Engineering
 
----
-
-## Connect With Me
-
+## Connect
 - LinkedIn: https://www.linkedin.com/in/shireen-talaat-zayed/
 - GitHub: https://github.com/ShireenTalaat
-
----
-
-## Portfolio Direction
-
-This GitHub profile is continuously evolving into a professional portfolio focused on:
-- Data Analytics
-- Applied AI
-- Power BI
-- Cloud Data Systems
-- Analytics Engineering
